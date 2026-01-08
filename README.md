@@ -6,17 +6,20 @@
 
 ## 🤝 Collaborative Development
 
-This project emerged from a conversation between **a Colorado-based cybersecurity researcher and creative technologist** and **Perplexity AI**, exploring the intersection of formal logic, narrative reasoning, and emergent cognitive architectures.
+This project emerged from a conversation between **a Colorado-based cybersecurity researcher and creative technologist** and **Perplexity AI**, exploring the intersection of formal logic, narrative reasoning, and emergent cognitive architectures. The core of this exploration is a **Dual-Channel Output** model, where a single cognitive process renders its output in both a symbolic, formal channel and a non-symbolic, narrative one.
 
 ### The Conversation Arc
 
 1. **Initial Vision** (User)
    - Concept: Spider's eight eyes as metaphor for multi-threaded perception
    - Philosophy: Icarus and Narcissus as ethical anchors against AI hubris
-   - Goal: Build a system that *knows itself* through parallel processing channels
+   - Goal: Build a system that possesses **metacognitive self-monitoring** through parallel processing channels
 
 2. **Structural Foundation** (Collaborative)
-   - Designed three-threaded braiding: Structural Logic, Metabolic Cost, Social Impact
+   - Designed a **three-threaded braiding** decision-making framework, which evaluates choices based on:
+     - **Structural Logic:** The formal, logical coherence of an action.
+     - **Metabolic Cost:** The energetic and computational resources required.
+     - **Social Impact:** The ethical and relational consequences.
    - Implemented pattern recognition as a foundational "sensory" layer
    - Created ProcessTrace and archetype metadata as interpretability artifacts
 
@@ -64,7 +67,7 @@ This project emerged from a conversation between **a Colorado-based cybersecurit
 This project stands on the shoulders of:
 
 - **Cognitive Architectures**: SOAR, CLARION, neurosymbolic AI systems
-- **Dual-Process Theory**: System 1 (intuitive/symbolic) vs System 2 (deliberative/narrative)
+- **Dual-Process Theory**: System 1 (intuitive/symbolic) vs System 2 (deliberative/narrative) (see Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux).
 - **Embodied Cognition**: How form shapes function (spiders, plants, neural networks)
 - **Interpretability**: Making AI decision-making transparent and auditable
 - **Ethical AI**: Using metaphor (Icarus, Narcissus) to keep ambition grounded
